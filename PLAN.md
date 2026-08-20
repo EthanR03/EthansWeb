@@ -1,6 +1,6 @@
 # Ethan's Portfolio Website — Build Plan
 
-> **Status:** Plan finalized — ready to build (Phase 1).
+> **Status:** LIVE — https://ethans-web.vercel.app (deployed via Vercel from https://github.com/EthanR03/EthansWeb)
 > **Last updated:** 2026-08-20
 
 ## 1. Purpose & Audience
